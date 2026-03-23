@@ -8,7 +8,7 @@ I'm a **Mechanical/Aerospace Engineer** with **10+ years** of experience solving
 
 ## 🎓 Education
 
-- **PhD in Aerospace Engineering** — Laser Diagnostic Lab with Prof. Noel Clemens
+- **PhD in Aerospace Engineering** — UT Austin, Laser Diagnostic Lab with Prof. Noel Clemens
 - **B.Tech in Aerospace Engineering** — IIT Kanpur, India
 
 ---
